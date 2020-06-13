@@ -1,3 +1,6 @@
+# Understand
+## I can only use the robots methods, loops and conditionals
+## can't access class attributes directly
 class SortingRobot:
     def __init__(self, l):
         """
